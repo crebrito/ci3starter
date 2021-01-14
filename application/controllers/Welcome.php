@@ -37,7 +37,7 @@ class Welcome extends CI_Controller {
 	public function importdatabase()
 	{
 		$this->load->library('migration');
-
+		
 		if ($this->migration->latest() === FALSE)
 		{
 			echo $this->migration->error_string();

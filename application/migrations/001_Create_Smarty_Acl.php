@@ -217,7 +217,7 @@ class Migration_Create_Smarty_Acl extends CI_Migration
                 'constraint' => '191',
             ),
             'permissions' => array(
-                'type' => 'JSON',
+                'type' => 'LONGTEXT',
             ),
         ));
         $this->dbforge->add_key('id', TRUE);
