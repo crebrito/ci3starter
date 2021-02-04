@@ -4,7 +4,7 @@ Demo application using [SmartyAcl](https://github.com/rubensrocha/codeigniter-sm
 ### What's included
 - [Codeigniter](https://codeigniter.com/) 3.1.11
 - [SmartyAcl Library](https://github.com/rubensrocha/codeigniter-smarty-acl) 1.2
-- [Codeigniter Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar/) 3
+- [Codeigniter Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar/) 1.2.2
 - Dotenv
 
 ### Installation
@@ -19,3 +19,5 @@ Username: admin<br>
 Password: 123456
 
 ### Agregado idioma Español
+
+### Agregado HMVC
